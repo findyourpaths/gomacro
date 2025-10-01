@@ -19,10 +19,10 @@ package xreflect
 import (
 	r "reflect"
 
-	"github.com/cosmos72/gomacro/go/types"
+	"github.com/findyourpaths/gomacro/go/types"
 
-	"github.com/cosmos72/gomacro/go/etoken"
-	"github.com/cosmos72/gomacro/go/typeutil"
+	"github.com/findyourpaths/gomacro/go/etoken"
+	"github.com/findyourpaths/gomacro/go/typeutil"
 )
 
 func combineOpt(ts []Type) Option {

@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	. "github.com/cosmos72/gomacro/base"
-	bstrings "github.com/cosmos72/gomacro/base/strings"
+	. "github.com/findyourpaths/gomacro/base"
+	bstrings "github.com/findyourpaths/gomacro/base/strings"
 )
 
 type Cmd struct {

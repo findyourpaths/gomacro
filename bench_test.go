@@ -21,8 +21,8 @@ import (
 	r "reflect"
 	"testing"
 
-	"github.com/cosmos72/gomacro/classic"
-	"github.com/cosmos72/gomacro/fast"
+	"github.com/findyourpaths/gomacro/classic"
+	"github.com/findyourpaths/gomacro/fast"
 )
 
 var (

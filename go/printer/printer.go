@@ -16,7 +16,7 @@ import (
 	"text/tabwriter"
 	"unicode"
 
-	etoken "github.com/cosmos72/gomacro/go/etoken"
+	etoken "github.com/findyourpaths/gomacro/go/etoken"
 )
 
 const (

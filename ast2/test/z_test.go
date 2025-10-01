@@ -21,10 +21,10 @@ import (
 	"os"
 	"testing"
 
-	. "github.com/cosmos72/gomacro/ast2"
-	"github.com/cosmos72/gomacro/base/output"
-	"github.com/cosmos72/gomacro/go/etoken"
-	"github.com/cosmos72/gomacro/go/parser"
+	. "github.com/findyourpaths/gomacro/ast2"
+	"github.com/findyourpaths/gomacro/base/output"
+	"github.com/findyourpaths/gomacro/go/etoken"
+	"github.com/findyourpaths/gomacro/go/parser"
 )
 
 func TestToNodes(t *testing.T) {

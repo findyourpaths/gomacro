@@ -24,11 +24,11 @@ import (
 	r "reflect"
 	"sort"
 
-	"github.com/cosmos72/gomacro/atomic"
-	"github.com/cosmos72/gomacro/base"
-	"github.com/cosmos72/gomacro/base/output"
-	"github.com/cosmos72/gomacro/base/untyped"
-	xr "github.com/cosmos72/gomacro/xreflect"
+	"github.com/findyourpaths/gomacro/atomic"
+	"github.com/findyourpaths/gomacro/base"
+	"github.com/findyourpaths/gomacro/base/output"
+	"github.com/findyourpaths/gomacro/base/untyped"
+	xr "github.com/findyourpaths/gomacro/xreflect"
 )
 
 type I = interface{}

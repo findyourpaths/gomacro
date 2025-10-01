@@ -25,8 +25,8 @@ import (
 	"go/token"
 	r "reflect"
 
-	"github.com/cosmos72/gomacro/base/reflect"
-	xr "github.com/cosmos72/gomacro/xreflect"
+	"github.com/findyourpaths/gomacro/base/reflect"
+	xr "github.com/findyourpaths/gomacro/xreflect"
 )
 
 func (c *Comp) placeShlConst(place *Place, val I) Stmt {

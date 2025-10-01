@@ -12,9 +12,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/cosmos72/gomacro/go/etoken"
+	"github.com/findyourpaths/gomacro/go/etoken"
 
-	"github.com/cosmos72/gomacro/go/types"
+	"github.com/findyourpaths/gomacro/go/types"
 )
 
 func fail(t *testing.T, actual interface{}, expected interface{}) {

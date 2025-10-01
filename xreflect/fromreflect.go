@@ -22,8 +22,8 @@ import (
 	r "reflect"
 	"strings"
 
-	"github.com/cosmos72/gomacro/go/types"
-	"github.com/cosmos72/gomacro/imports"
+	"github.com/findyourpaths/gomacro/go/types"
+	"github.com/findyourpaths/gomacro/imports"
 )
 
 // TypeOf creates a Type corresponding to reflect.TypeOf() of given value.

@@ -21,8 +21,8 @@ import (
 	"go/token"
 	r "reflect"
 
-	. "github.com/cosmos72/gomacro/base"
-	"github.com/cosmos72/gomacro/base/reflect"
+	. "github.com/findyourpaths/gomacro/base"
+	"github.com/findyourpaths/gomacro/base/reflect"
 )
 
 type eBreak struct {

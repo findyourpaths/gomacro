@@ -23,7 +23,7 @@ import (
 	"path/filepath"
 	r "reflect"
 
-	"github.com/cosmos72/gomacro/base/paths"
+	"github.com/findyourpaths/gomacro/base/paths"
 )
 
 func chooseGoCmd() string {

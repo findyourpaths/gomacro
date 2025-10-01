@@ -20,7 +20,7 @@ import (
 	"go/ast"
 	"go/token"
 
-	etoken "github.com/cosmos72/gomacro/go/etoken"
+	etoken "github.com/findyourpaths/gomacro/go/etoken"
 )
 
 // enable C++-style generics?

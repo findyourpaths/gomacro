@@ -20,9 +20,9 @@ import (
 	"go/token"
 	r "reflect"
 
-	"github.com/cosmos72/gomacro/base"
-	"github.com/cosmos72/gomacro/base/reflect"
-	etoken "github.com/cosmos72/gomacro/go/etoken"
+	"github.com/findyourpaths/gomacro/base"
+	"github.com/findyourpaths/gomacro/base/reflect"
+	etoken "github.com/findyourpaths/gomacro/go/etoken"
 )
 
 func (env *Env) unsupportedBinaryExpr(xv r.Value, op token.Token, yv r.Value) r.Value {

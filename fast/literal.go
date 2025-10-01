@@ -23,11 +23,11 @@ import (
 	"math/big"
 	r "reflect"
 
-	"github.com/cosmos72/gomacro/base/output"
+	"github.com/findyourpaths/gomacro/base/output"
 
-	"github.com/cosmos72/gomacro/base/reflect"
-	"github.com/cosmos72/gomacro/base/untyped"
-	xr "github.com/cosmos72/gomacro/xreflect"
+	"github.com/findyourpaths/gomacro/base/reflect"
+	"github.com/findyourpaths/gomacro/base/untyped"
+	xr "github.com/findyourpaths/gomacro/xreflect"
 )
 
 func (c *Comp) BasicLit(node *ast.BasicLit) *Expr {

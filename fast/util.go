@@ -22,11 +22,11 @@ import (
 	"go/constant"
 	r "reflect"
 
-	"github.com/cosmos72/gomacro/base"
-	"github.com/cosmos72/gomacro/base/output"
-	"github.com/cosmos72/gomacro/base/reflect"
-	"github.com/cosmos72/gomacro/base/untyped"
-	xr "github.com/cosmos72/gomacro/xreflect"
+	"github.com/findyourpaths/gomacro/base"
+	"github.com/findyourpaths/gomacro/base/output"
+	"github.com/findyourpaths/gomacro/base/reflect"
+	"github.com/findyourpaths/gomacro/base/untyped"
+	xr "github.com/findyourpaths/gomacro/xreflect"
 )
 
 func eFalse(*Env) bool {

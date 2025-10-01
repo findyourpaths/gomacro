@@ -26,15 +26,15 @@ import (
 	"testing"
 	"time"
 
-	. "github.com/cosmos72/gomacro/ast2"
-	. "github.com/cosmos72/gomacro/base"
-	"github.com/cosmos72/gomacro/base/reflect"
-	"github.com/cosmos72/gomacro/base/untyped"
-	"github.com/cosmos72/gomacro/classic"
-	"github.com/cosmos72/gomacro/fast"
-	"github.com/cosmos72/gomacro/go/etoken"
-	"github.com/cosmos72/gomacro/go/parser"
-	xr "github.com/cosmos72/gomacro/xreflect"
+	. "github.com/findyourpaths/gomacro/ast2"
+	. "github.com/findyourpaths/gomacro/base"
+	"github.com/findyourpaths/gomacro/base/reflect"
+	"github.com/findyourpaths/gomacro/base/untyped"
+	"github.com/findyourpaths/gomacro/classic"
+	"github.com/findyourpaths/gomacro/fast"
+	"github.com/findyourpaths/gomacro/go/etoken"
+	"github.com/findyourpaths/gomacro/go/parser"
+	xr "github.com/findyourpaths/gomacro/xreflect"
 )
 
 var enable_generics_v2_cti = func() bool {

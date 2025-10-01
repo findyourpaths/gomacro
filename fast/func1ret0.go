@@ -24,8 +24,8 @@ package fast
 import (
 	"unsafe"
 
-	"github.com/cosmos72/gomacro/base"
-	xr "github.com/cosmos72/gomacro/xreflect"
+	"github.com/findyourpaths/gomacro/base"
+	xr "github.com/findyourpaths/gomacro/xreflect"
 )
 
 func (c *Comp) func1ret0(t xr.Type, m *funcMaker) func(*Env) xr.Value {

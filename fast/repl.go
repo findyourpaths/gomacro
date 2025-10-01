@@ -27,12 +27,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/cosmos72/gomacro/ast2"
-	"github.com/cosmos72/gomacro/base"
-	"github.com/cosmos72/gomacro/base/paths"
-	"github.com/cosmos72/gomacro/base/reflect"
-	bstrings "github.com/cosmos72/gomacro/base/strings"
-	xr "github.com/cosmos72/gomacro/xreflect"
+	"github.com/findyourpaths/gomacro/ast2"
+	"github.com/findyourpaths/gomacro/base"
+	"github.com/findyourpaths/gomacro/base/paths"
+	"github.com/findyourpaths/gomacro/base/reflect"
+	bstrings "github.com/findyourpaths/gomacro/base/strings"
+	xr "github.com/findyourpaths/gomacro/xreflect"
 )
 
 // return read string and position of first non-comment token.
